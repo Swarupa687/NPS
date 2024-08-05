@@ -1,0 +1,14 @@
+After opening Cisco Packet Tracer,created a new file then I selected a router,a switch and two PC's.
+Using copper straingt cable I connected PC0 to switch, then router to switch and PC1 to switch.
+Then assigned IP address to the router.
+Then after assigned IP address to both the PC's.
+After that opened the Command Prompt of the PC0, and used the following commands:
+     1.ipconfig :
+              it displayed the current ip network configuration values
+
+     2.tracert <ip configuration>:
+              it traced the path taken to the destination by sending echo request messages
+
+     3.telnet :
+             it is used for interactive communication with another host.
+            
